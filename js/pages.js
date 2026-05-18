@@ -264,7 +264,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://pay.kiwify.com.br/2ZydJE3';
+    window.location.href = 'https://go.invictuspay.app.br/7tuumnefcj';
   });
 
 }
